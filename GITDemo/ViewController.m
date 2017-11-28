@@ -23,4 +23,8 @@
     //SP Mac  test1 实现方法
 }
 
+- (void)test3 {
+    //SP Mac  test3 实现方法
+}
+
 @end
