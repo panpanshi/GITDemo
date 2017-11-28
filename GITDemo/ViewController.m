@@ -23,4 +23,8 @@
     //SP Mac  test1 实现方法
 }
 
+- (void)test2 {
+    //ZC Mac  test2 实现方法
+}
+
 @end
